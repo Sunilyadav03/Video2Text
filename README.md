@@ -10,3 +10,4 @@ Install These following dependencies...
 !pip install git+https://github.com/openai/whisper.git
 
 
+
