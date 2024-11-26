@@ -1,4 +1,4 @@
--- In this file we extract "customer_name, borrow_amount, repay_date, pan_number, aadhar_number, lender_name, credit_date" from financial text data.
+# -- In this file we extract "customer_name, borrow_amount, repay_date, pan_number, aadhar_number, lender_name, credit_date" from financial text data.
 import pdfplumber
 import re
 from transformers import pipeline
