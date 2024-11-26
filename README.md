@@ -10,11 +10,19 @@ Install These following dependencies...
 !pip install inflect python-dateutil
 !pip install git+https://github.com/openai/whisper.git
 !pip install pdfplumber
+```
+# Extract_Important_Info_from_TextData.py
+By using this file you can extract specific information from a transcript/text data file. In this file you see that it's extracting specific financial information from the financial transcript data.
 
+# Clone
+You can clone this current repository by following web URL-
+`
+https://github.com/Sunilyadav03/Video2Text.git
+`
 # License
 This project is licensed under the MIT license
 
-#Acknowledgments
+# Acknowledgments
 OpenAI Whisper* [here](https://github.com/openai/whisper).
 
 
