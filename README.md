@@ -4,6 +4,11 @@ Video2Text allows you to easily convert a video to text. This process is also ca
 # Help
 Install These following dependencies...
 
+!pip install moviepy SpeechRecognition transformers torch torchvision torchaudio
+
+!pip install opencv-python-headless pytesseract pillow
+
+!pip install inflect python-dateutil
 
 
 
